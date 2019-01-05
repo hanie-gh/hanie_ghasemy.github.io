@@ -10,7 +10,9 @@ list of recording session organized by time of recording
 *   quantumComputing_4min_allTarget_closedEye
 *   music_nonTarget_A_Hans_3min
 *   music_nonTarget_A_Hans_3min_closedEye
-  --== break
+
+--== break
+
 *   noMusic_nonTarget_3min
 *   noMusic_nonTarget_3min_closedEye
 *   theBigBang_2min_allTarget
@@ -19,7 +21,9 @@ list of recording session organized by time of recording
 *   transistor_5min_allTarget_closedEye
 *   unconscious_bias_3min_allTarget
 *   unconscious_bias_3min_allTarget_closedEye
-*   --== break
+
+--== break
+
 *   music_nonTarget_A_Nils_5min
 *   music_nonTarget_A_Nils_5min_closedEye
 *   noMusic_nonTarget_7min
