@@ -11,7 +11,7 @@ list of recording session organized by time of recording
 *   music_nonTarget_A_Hans_3min
 *   music_nonTarget_A_Hans_3min_closedEye
 
---== break
+--============================ BREAK ============================--
 
 *   noMusic_nonTarget_3min
 *   noMusic_nonTarget_3min_closedEye
